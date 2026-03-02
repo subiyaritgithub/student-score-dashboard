@@ -108,6 +108,8 @@ GitHub (Code Repository)
 
 Streamlit Cloud - http://localhost:8501
 
+Deployment link - https://student-exam-score-dashboard.streamlit.app/
+
 The project can be accessed via a live deployment link.
 
 💡 **Use Cases**
